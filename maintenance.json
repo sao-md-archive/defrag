@@ -1,0 +1,9 @@
+{
+  "valid": true,
+  "opened_at": 1630303200,
+  "closed_at": 1630310400,
+  "detail": "Maintenance has been extended to 8:00 (UTC). We apologize for the inconvenience.",
+  "force_update_op_at": 1630310400,
+  "force_update_cl_at": 0,
+  "force_update_version": "3.0.0"
+}
